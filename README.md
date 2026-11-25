@@ -21,5 +21,5 @@ pip install colorama
 pip install requests
 git clone https://github.com/relaxch/Smsbomber.py.git
 ls
-cd smsbomber.py
+cd smsbomberrelax.py
 python smsbomber.py
